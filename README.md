@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ingraulhdz
 - 👀 I’m interested in codign for fun
-- 🌱 I’m currently learning react js 
-- 💞️ I’m looking to collaborate on some projects for practice
+- 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me by gmail
 
 <!---
